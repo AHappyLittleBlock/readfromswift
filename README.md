@@ -1,0 +1,2 @@
+# readfromswift
+SomeSortOfThingForMyFriend
